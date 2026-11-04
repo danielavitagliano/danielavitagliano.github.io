@@ -23,7 +23,7 @@ repository               : "danielavitagliano/danielavitagliano.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "foto.png"
+  avatar           : "foto.jpg"
   name             : "Daniela Vitagliano"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
