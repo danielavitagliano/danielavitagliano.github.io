@@ -23,13 +23,13 @@ repository               : "danielavitagliano/danielavitagliano.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "foto.png"
   name             : "Daniela Vitagliano"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth, sometimes"
   employer         : "Université Côte d'Azur"
-  uri              : # URL
+  uri              : "https://femmesenvoix.hypotheses.org/"
   email            : "daniela.vitagliano@univ-cotedazur.fr" 
 
   # Academic websites
