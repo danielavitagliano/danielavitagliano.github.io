@@ -1,3 +1,4 @@
+
 # The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
@@ -28,3 +29,9 @@ main:
     
   - title: "Guide"
     url: /markdown/
+
+  - title: "Map"
+    url: /map/
+
+  - title: "Femmes en voix"
+    url: "https://femmesenvoix.hypotheses.org"
