@@ -9,7 +9,7 @@ tags:
   - women lecturers
 ---
 
-*Femmes en voix – Voix de femmes* is a research blog hosted on Hypotheses. It focuses on the project **women and feminisms in the public sphere, exploring discourses, narratives and representations from the nineteenth and twentieth centuries**.
+*Femmes en voix – Voix de femmes* is a research blog hosted on Hypotheses. It focuses on the project **_Women and feminisms in the public sphere, exploring discourses, narratives and representations from the nineteenth and twentieth centuries_**.
 
 ## What you will find
 
