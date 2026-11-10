@@ -22,12 +22,10 @@ When I'm not in front of a screen, I'm probably on a train to yet another archiv
 - **WI_WON-ITALY**: *Writings of Italian WOmen between literature and society. Networks and transmission of ideas (1865-1925)*, an ANR project coordinated by Barbara Meazzi (Université Côte d'Azur).
 - The circuits and networks of **public lectures** given by early feminists and activists in Europe in the 19th and 20th centuries.
 
-## Maps in progress
+## Digital projects
 
-Two interactive prototypes, still growing:
-
-- [Women's lectures](https://pinea.app.carto.com/map/779cba45-65bf-4223-82ba-58960e111e83)
-- [Women's archives](https://pinea.app.carto.com/map/65e9ea3d-ac7a-452c-afcf-5c124ac0e728)
+- **Hyperleucò**: a "wiki" dedicated to Cesare Pavese's *Dialoghi con Leucò* (*Dialogues with Leucò*). Each dialogue is linked to pages exploring its characters, key terms and major themes in Pavese's literary universe. I created it during my PhD (CAER – Aix-Marseille Université / Università degli Studi di Torino) and my postdoc at ITEM (ENS/CNRS), with Pop-eye Studio (web design) and illustrator Vincenzo Del Vecchio (artwork).
+- **Maps in progress**: three interactive prototypes, still growing, on [women's lectures](https://pinea.app.carto.com/map/779cba45-65bf-4223-82ba-58960e111e83) and (https://daniv1t.github.io/lectures_topics_prototype2026/) and [women's archives](https://pinea.app.carto.com/map/65e9ea3d-ac7a-452c-afcf-5c124ac0e728)
 
 ## Writing
 
