@@ -13,14 +13,14 @@ Often lost (in archives)... From literature to women's history, my eclectic (and
 
 It all started with **Cesare Pavese** and the anthropological implications of rewriting ancient myths. From there, I drifted towards the sociology of literature and cultural production, and then towards the women who dared to speak in public.
 
-Today I am a postdoctoral researcher at **Université Côte d'Azur**, after two previous postdocs there and at the **École normale supérieure** in Paris. I hold the *agrégation* in Italian and a PhD in contemporary Italian literature. I work on Italian and comparative literature and culture from the 19th to the 21st century, with a soft spot for women's cultural history, data visualisation (and computational methods... I wish!)
+Today I am a postdoctoral researcher at Université Côte d'Azur, after two previous postdocs there and at the École normale supérieure in Paris. I hold the *agrégation* in Italian and a PhD in contemporary Italian literature. I work on Italian and comparative literature and culture from the 19th to the 21st century, with a soft spot for **women's cultural history**, data visualisation (and computational methods... I wish!)
 
 When I'm not in front of a screen, I'm probably on a train to yet another archive, chasing the traces of forgotten women's voices.
 
 ## What I'm working on
 
 - **WI_WON-ITALY**: *Writings of Italian WOmen between literature and society. Networks and transmission of ideas (1865-1925)*, an ANR project coordinated by Barbara Meazzi (Université Côte d'Azur).
-- An inventory and map of the public lectures given by early feminists and activists in Europe in the 19th and 20th centuries.
+- The circuits and networks of **public lectures** given by early feminists and activists in Europe in the 19th and 20th centuries.
 
 ## Maps in progress
 
