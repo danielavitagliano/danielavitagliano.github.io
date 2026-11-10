@@ -9,7 +9,7 @@ redirect_from:
 
 ## A long (love) story
 
-Often lost in the archives. From literature to women's history, my eclectic (and nerdy) tendencies have led me to the digital humanities. Now I need a DH coach!
+Often lost (also in archives)... From literature to women's history, my eclectic (and nerdy) tendencies have led me to the digital humanities. Now I need a DH coach!
 
 It all started with **Cesare Pavese** and the anthropological implications of rewriting ancient myths. From there, I drifted towards the sociology of literature and cultural production, and then towards the women who dared to speak in public.
 
