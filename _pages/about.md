@@ -13,7 +13,7 @@ Often lost (in archives)... From literature to women's history, my eclectic (and
 
 It all started with **Cesare Pavese** and the anthropological implications of rewriting ancient myths. From there, I drifted towards the sociology of literature and cultural production, and then towards the women who dared to speak in public.
 
-Today I am a postdoctoral researcher at **Université Côte d'Azur**, after two previous postdocs there and at the **École normale supérieure** in Paris. I hold the *agrégation* in Italian and a PhD in contemporary Italian literature. I work on Italian and comparative literature and culture from the 19th to the 21st century, with a soft spot for women's cultural history, computational methods and data visualisation.
+Today I am a postdoctoral researcher at **Université Côte d'Azur**, after two previous postdocs there and at the **École normale supérieure** in Paris. I hold the *agrégation* in Italian and a PhD in contemporary Italian literature. I work on Italian and comparative literature and culture from the 19th to the 21st century, with a soft spot for women's cultural history, data visualisation (and computational methods... I wish!)
 
 When I'm not in front of a screen, I'm probably on a train to yet another archive, chasing the traces of forgotten women's voices.
 
